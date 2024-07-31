@@ -1,4 +1,14 @@
-# Project Name: Coffee Lading Page
+# Coffee Lading Page
+
+## Demo Screenshots
+
+![Demo Screenshot](https://github.com/Daniish-Qureshi/Coffee-Lading-Page/blob/main/demo.png)
+
+## Live Demo
+
+Click the button below to see the project in action:
+
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Coffee-Lading-Page/)
 
 # Introduction
 
@@ -17,16 +27,6 @@ The Coffee Landing Page project presents a beautifully designed and engaging lan
 - *HTML5*: For structuring the content.
 - *CSS3*: For styling and layout.
 - *JavaScript*: For adding interactivity and enhancing user experience.
-
-## Demo Screenshots
-
-![Demo Screenshot](https://github.com/Daniish-Qureshi/Coffee-Lading-Page/blob/main/demo.png)
-
-## Live Demo
-
-Click the button below to see the project in action:
-
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Coffee-Lading-Page/)
 
 ## Contact
 
